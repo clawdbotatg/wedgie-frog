@@ -6,7 +6,7 @@ of him. Fed and happy, he grows: baby, froglet, frog, big frog.
 ## Controls
 
 - Joystick left/right: pick **FEED**, **PLAY** or **NAME**. A does it, Y goes back.
-- **FEED**: pick a fly, worm, cricket or berry. Each fills him up and cheers him up by a different amount.
+- **FEED**: pick a fly (it buzzes around until his tongue snaps it), worm, cricket or berry. Each fills him up and cheers him up by a different amount.
   He has a favorite food (a surprise).
 - **PLAY**: he hops around. Cheers him up, makes him a little hungry.
 - Joystick up/down: he looks where you push.
